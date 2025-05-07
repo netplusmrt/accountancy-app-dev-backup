@@ -1,0 +1,80 @@
+{
+  "authentications": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "challanOptions": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "challans": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "companies": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "customers": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "dataSyncs": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "deletedRecords": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "invoiceOptions": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "invoices": {
+    "lastBackupTime": "2025-05-07T13:03:32.656Z"
+  },
+  "items": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "jobOptions": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "jobs": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "payments": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "profiles": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "purchaseOptions": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "purchaseReturnOptions": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "purchaseReturns": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "purchases": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "quoteOptions": {
+    "lastBackupTime": "2024-05-07T03:37:36.147Z"
+  },
+  "quotes": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "referrals": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "salesReturnOptions": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "salesReturns": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "stocks": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "transportModes": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  },
+  "userRoles": {
+    "lastBackupTime": "2025-05-07T12:32:48.419Z"
+  }
+}
